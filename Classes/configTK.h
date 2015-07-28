@@ -1,0 +1,16 @@
+#ifndef __CONFIG_COMMON__
+#define __CONFIG_COMMON__
+
+#define SCREEN_WIDTH 2048
+#define SCREEN_HEIGHT 1536
+
+#define DISPLAY_WIDTH 1024
+#define DISPLAY_HEIGHT 768
+
+#define GAME_FPS 60
+
+#define ACTOR_BASE_HEIGHT 0.0f
+
+#define ACTOR_REFRESH_ANGLE 30.0f
+
+#endif
